@@ -5,3 +5,4 @@ help you predict the assert you will have in coming years according to your prop
 
 not just a counter, but a intelligent friend who can dynamicly help you adjust your expense when your spending rhythm is too fast, or over your expectation.
 
+the idea comes from the facts that people often spend money irrationally as a way to relieve stress. Over time, this accumulation of poor financial decisions can lead to perpetual poverty. If individuals could predict the consequences of their spending habits early on, they could avoid such a tragic outcome. However, most existing budgeting apps are merely numerical calculators and lack the ability to dynamically forecast future consequences, leaving users unaware of their irrational spending patterns.
