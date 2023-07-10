@@ -42,5 +42,20 @@ To improve the accuracy of asset predictions, it's essential to utilize accurate
 
 Remember that asset prediction models should be used as a guide and should be complemented with a comprehensive financial plan, continuous monitoring, and adjustment based on changing circumstances and goals. Regular reassessment and flexibility are key in adapting predictions to real-world conditions and individual financial situations.
 
+竞品调研：
+Personal Capital: Personal Capital is a comprehensive financial planning platform that offers tools for budgeting, investment tracking, retirement planning, and wealth management. It provides a holistic view of your financial life and offers personalized recommendations.
+
+Mint: Mint is a free budgeting and personal finance app that allows you to track your spending, set financial goals, and monitor your investments. It offers visualization tools and personalized insights to help you manage your money effectively.
+
+Quicken: Quicken is a well-known financial management software that helps you track and categorize your expenses, create budgets, and monitor investments. It offers features for comprehensive financial planning, including retirement planning, debt reduction, and tax management.
+
+YNAB (You Need a Budget): YNAB is a popular budgeting app that follows a proactive budgeting methodology. It helps you assign every dollar a job, tracks your expenses and goals, and provides real-time insights to help you make informed financial decisions.
+
+Wealthfront: Although primarily known as a robo-advisor for investment management, Wealthfront also offers comprehensive financial planning tools. It provides automated financial planning services that consider your goals, risk tolerance, and financial situation to offer personalized recommendations.
+
+Fidelity Full View: Fidelity Full View is a financial planning tool that aggregates your financial information from various accounts, including bank accounts, credit cards, investments, and retirement accounts. It offers budgeting features, investment tracking, and goal planning capabilities.
+
+SoFi Relay: SoFi Relay is a financial planning and tracking app that integrates with your existing accounts to give you a clear overview of your financial picture. It offers features like budgeting, goal tracking, expense categorization, and investment monitoring.
+
 
 ![coffee-g1d1c1e38e_640](https://github.com/yyuyitian/LatteExpense/assets/95139110/4ca2709f-c5ac-4e56-abac-7a105f1a2853)
